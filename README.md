@@ -17,9 +17,9 @@ TODOLIST 할일 목록을 작성하는 사이트입니다.
     - **`CSS`**: 스타일과 레이아웃 설계
     - **`JavaScript`**: 동적 기능 구현
 <br /><br />
-# 🎨 디자인 시안
+## 🎨 디자인 시안
 
-<a href="https://www.figma.com/file/Q81vKDRIoXpMcIZTYHqrQl/%EC%B4%88%EB%A1%9D%EC%A7%91%EC%82%AC-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0%3A1"><img src="https://user-images.githubusercontent.com/79133602/178581705-9e7f8451-41b4-40a1-8f98-e2676faf55a9.png" width="100%"/></a>
+<a href="https://www.figma.com/design/TtHLGcqyh7hhYvX6CYyUav/todoList?node-id=0-1&t=M0Id80xM7ZMu5xfQ-0"><img src="https://user-images.githubusercontent.com/79133602/178581705-9e7f8451-41b4-40a1-8f98-e2676faf55a9.png" width="100%"/></a>
 
 ## 📌 주요 기능
 #### 할 일 입력 공간
