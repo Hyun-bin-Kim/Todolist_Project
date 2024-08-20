@@ -10,13 +10,15 @@ TODOLIST 할일 목록을 작성하는 사이트입니다.
 ## 👨‍👨‍👦‍👦 팀원 소개
 <table>
 <tr>
-    <td align="center"><a href=""><b>강선영</b></a></td>
-    <td align="center"><a href=""><b>김수빈</b></a></td>
-    <td align="center"><a href=""><b>김현빈</b></a></td>
-    <td align="center"><a href=""><b>이의영</b></a></td>
-    <td align="center"><a href=""><b>조성은</b></a></td>
+    <td align="center"><a href="https://github.com/seon022"><b>강선영</b></a></td>
+    <td align="center"><a href="https://github.com/sssssubin"><b>김수빈</b></a></td>
+    <td align="center"><a href="https://github.com/Hyun-bin-Kim"><b>김현빈</b></a></td>
+    <td align="center"><a href="https://github.com/snsdl0905"><b>이의영</b></a></td>
+    <td align="center"><a href="https://github.com/seongeuneee"><b>조성은</b></a></td>
 </tr>
 </table>
+<br /><br />
+
 ## 🕰️ 개발 기간
 * 24.08.19 - 24.08.20
 <br /><br />
