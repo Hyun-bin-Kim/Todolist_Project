@@ -17,7 +17,7 @@ TODOLIST 할일 목록을 작성하는 사이트입니다.
     <td align="center"><a href="https://github.com/seongeuneee"><b>조성은</b></a></td>
 </tr>
 </table>
-<br /><br />
+<br />
 
 ## 🕰️ 개발 기간
 * 24.08.19 - 24.08.20
