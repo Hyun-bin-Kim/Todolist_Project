@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TODO LIST</title>
+    <link rel="stylesheet" href="./css/todo.css" />
+  </head>
+  <body>
+    <h2 id="header">TODO LIST</h2>
+    <div id="app">
+      <div class="add-todo-container">
+        <h3>NEW TODO</h3>
+        <div class="add-todo-section">
+          <div class="input-container">
+            <input type="text" id="todo-input" placeholder="Enter TODO Title" />
+            <div id="todo-error" class="error">Please enter a Title.</div>
+          </div>
+          <div class="input-container">
+            <input id="memo-input" placeholder="Enter TODO Memo" />
+            <div id="memo-error" class="error">Please enter a Memo.</div>
+          </div>
+          <div class="input-container">
+            <input
+              type="text"
+              id="category-input"
+              placeholder="Enter TODO Category"
+            />
+            <div id="category-error" class="error">
+              Please enter a Category.
+            </div>
+          </div>
+          <button id="add-todo-btn">ADD</button>
+        </div>
+      </div>
+    </div>
+    <div id="app_search">
+      <div class="search-filter-container">
+        <div class="search-filter-section">
+          <div class="search-input-wrapper">
+            <input type="text" id="search-input" placeholder="Search note..." />
+            <button id="search-btn">
+              <img src="./img/search.png" alt="Search" />
+            </button>
+          </div>
+          <select id="category-filter">
+            <option value="">ALL</option>
+          </select>
+          <button class="change-btn"><img src="./img/change_day.png" /></button>
+        </div>
+      </div>
+
+      <div class="todo-list-section">
+        <ul id="todo-list"></ul>
+        <div id="empty-state"><img src="./img/empty.png" /></div>
+      </div>
+
+      <!-- Details Popup -->
+      <div id="details-popup-overlay" class="popup-overlay">
+        <div class="popup-content">
+          <h2 id="details-popup-title" class="details-h2"></h2>
+          <p id="details-popup-date"></p>
+          <p id="details-popup-category"></p>
+          <p id="details-popup-content"></p>
+          <button id="details-popup-close-btn" class="close-btn">Close</button>
+        </div>
+      </div>
+
+      <!-- Edit Popup -->
+      <div id="edit-popup-overlay" class="popup-overlay">
+        <div class="popup-content">
+          <h2 class="edit-h2">EDIT TODO</h2>
+          <div class="input-container">
+            <input id="edit-popup-title" type="text" placeholder="Title" />
+            <span id="edit-title-error" class="error-message">Title is required.</span>
+          </div>
+          <div class="input-container">
+            <input id="edit-popup-category" type="text" placeholder="Category"/>
+            <span id="edit-category-error" class="error-message">Category is required.</span>
+          </div>
+          <div class="input-container">
+            <input id="edit-popup-content" placeholder="Content" />
+            <span id="edit-content-error" class="error-message">Content is required.</span>
+          </div>
+          <button id="edit-popup-cancel-btn" class="cancel-btn">Cancel</button>
+          <button id="edit-popup-save-btn" class="save-btn">Save</button>
+        </div>
+      </div>
+    </div>
+    <script src="./js/todo.js"></script>
+  </body>
+</html>
