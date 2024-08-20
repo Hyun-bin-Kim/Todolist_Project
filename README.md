@@ -51,21 +51,8 @@ TODOLIST 할일 목록을 작성하는 사이트입니다.
 | :-------------------------------------------: | :------------: |
 | ![todolist_main](https://github.com/user-attachments/assets/3dd726d4-9162-4681-82e4-82727bf9dc74) | ![todolist_edit_popup](https://github.com/user-attachments/assets/93092cba-1d0f-494c-86c3-5e4a5d7642e0) |
 | ### 카테고리 필터 | ### 검색 |
-| :-------------------------------------------: | :------------: |
 | ![todolist_category_filter](https://github.com/user-attachments/assets/83c65473-b61e-4252-b892-025a8857309e) | ![todolist_search](https://github.com/user-attachments/assets/c1a0224b-7b16-4529-b319-2d4f111023d5) |
 | ### 삭제 | ### 야간 모드 | 
-| :-------------------------------------------: | :------------: |
 | ![todolist_delete](https://github.com/user-attachments/assets/e6b7b25f-70fd-4b9f-a2b5-f5474d76ea56) | ![todolist_nightmode](https://github.com/user-attachments/assets/dd47e2b1-af7e-485c-86b0-a3a7e7a9845b) | 
 | ### 할일 추가_유효성 검사 | ### 수정 팝업_유효성 검사  |
-| :-------------------------------------------: | :------------: |
 | ![todolist_validation_2](https://github.com/user-attachments/assets/b31ef075-f5d3-46e9-be21-327bd89c29e0) | ![todolist_validation_1](https://github.com/user-attachments/assets/666cccc5-899c-40b2-9398-e7323cad71d4) |
-
-
-
-
-## 화면 구성 📺
-| 메인 페이지  |  소개 페이지   |
-| :-------------------------------------------: | :------------: |
-|  <img width="329" src="https://user-images.githubusercontent.com/50205887/208036155-a57900f7-c68a-470d-923c-ff3c296ea635.png"/> |  <img width="329" src="https://user-images.githubusercontent.com/50205887/208036645-a76cf400-85bc-4fa2-af72-86d2abf61366.png"/>|  
-| 강좌 소개 페이지   |  강의 영상 페이지   |  
-| <img width="329" src="https://user-images.githubusercontent.com/50205887/208038737-2b32b7d2-25f4-4949-baf5-83b5c02915a3.png"/>   |  <img width="329" src="https://user-images.githubusercontent.com/50205887/208038965-43a6318a-7b05-44bb-97c8-b08b0495fba7.png"/>     |
