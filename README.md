@@ -1,6 +1,6 @@
 # TODOLIST_FRONTEND_PROJECT
 TODOLIST 할일 목록을 작성하는 사이트입니다.
-
+<br>
 
 ## 🖥️ 프로젝트 소개
 사용자들이 할 일을 효율적으로 관리할 수 있는 Todo List 웹 애플리케이션입니다.
@@ -15,31 +15,33 @@ TODOLIST 할일 목록을 작성하는 사이트입니다.
 - `java version "1.8.0_101"`
 
 ## 📌 주요 기능
-#### 할 일 입력 공간 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
+#### 할 일 입력 공간
 - 입력 필드 (text)
 - 추가 버튼 (클릭 시 할 일이 목록에 추가됨)
-####  할 일 추가, 삭제, 수정 기능 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
+####  할 일 추가, 삭제, 수정 기능
 - 할 일 항목마다 수정 버튼, 삭제 버튼 제공
 - **수정 기능**:
     - 수정 팝업 또는 수정 페이지에서 수정 가능
     - 보너스 기능으로 리스트 내에서 직접 수정 가능하도록 구현 가능
 - **삭제 기능**: 삭제 버튼 클릭 시 해당 할 일을 삭제
-#### 할 일 목록 리스트 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
+#### 할 일 목록 리스트
 - 할 일 목록 리스트는 사용자가 쉽게 확인할 수 있는 형태로 표시
 - **드래그앤드롭 순서 변경 기능**: 사용자가 할 일의 우선순위를 쉽게 조정할 수 있도록, 할 일을 드래그앤드롭하여 목록 순서를 변경할 수 있는 기능 구현
-
-#### 할 일 목록 데이터 저장 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%98%81%ED%99%94-%EC%98%88%EB%A7%A4)" >상세보기 - WIKI 이동</a>
+#### 할 일 목록 데이터 저장
 - 할 일 목록의 데이터를 Local Storage에 저장하여 새로고침 후에도 데이터가 유지
-#### 할 일 title 검색 기능 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A9%94%EC%9D%B8-Page)" >상세보기 - WIKI 이동</a>
+#### 할 일 title 검색 기능
 - 검색 입력 필드 및 검색 버튼
-#### 완료된 할 일 및 미완료 할 일 분류 - <a href="" >상세보기 - WIKI 이동</a> 
+#### 완료된 할 일 및 미완료 할 일 분류
 - 할 일 목록 리스트 내에서 상태 구분
-#### 카테고리 분류 기능 - <a href="" >상세보기 - WIKI 이동</a> 
+#### 카테고리 분류 기능
 - 할 일 입력 시 카테고리 선택 가능하도록 select 요소 제공
 - 카테고리 선택 시 해당 카테고리에 해당하는 할 일만 목록에 표시
-#### 카테고리 선택 후 검색 필터링 기능 - <a href="" >상세보기 - WIKI 이동</a> 
+#### 카테고리 선택 후 검색 필터링 기능
 - 카테고리 선택 필드 (select)
 - 검색 필드 (text) 및 검색 버튼
-#### 카테고리 선택 후 검색 필터링 기능 - <a href="" >상세보기 - WIKI 이동</a> 
+#### 카테고리 선택 후 검색 필터링 기능
 - 카테고리 선택 필드 (select)
 - 검색 필드 (text) 및 검색 버튼
+
+## 💻 화면 구성
+
