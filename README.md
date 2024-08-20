@@ -31,7 +31,7 @@ TODOLIST 할일 목록을 작성하는 사이트입니다.
 <br /><br />
 ## 🎨 디자인 시안
 
-<a href="https://www.figma.com/design/TtHLGcqyh7hhYvX6CYyUav/todoList?node-id=0-1&t=M0Id80xM7ZMu5xfQ-0">![design](https://github.com/user-attachments/assets/b275206c-3cf2-4013-acb7-66a70f3b8039)
+<a href="https://www.figma.com/design/TtHLGcqyh7hhYvX6CYyUav/todoList?node-id=0-1&t=M0Id80xM7ZMu5xfQ-0">![design](https://github.com/user-attachments/assets/dcf2b6c4-af68-421d-aeb8-09d5cef3cbce)
 </a>
 
 ## 📌 주요 기능
