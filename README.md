@@ -47,12 +47,12 @@ TODOLIST 할일 목록을 작성하는 사이트입니다.
 
 ## 📺 화면 구성
 
-| ### 메인 화면 | ### 수정 팝업 | 
+| 메인 화면 | 수정 팝업 | 
 | :-------------------------------------------: | :------------: |
 | ![todolist_main](https://github.com/user-attachments/assets/3dd726d4-9162-4681-82e4-82727bf9dc74) | ![todolist_edit_popup](https://github.com/user-attachments/assets/93092cba-1d0f-494c-86c3-5e4a5d7642e0) |
-| ### 카테고리 필터 | ### 검색 |
+| 카테고리 필터 | 검색 |
 | ![todolist_category_filter](https://github.com/user-attachments/assets/83c65473-b61e-4252-b892-025a8857309e) | ![todolist_search](https://github.com/user-attachments/assets/c1a0224b-7b16-4529-b319-2d4f111023d5) |
-| ### 삭제 | ### 야간 모드 | 
+| 삭제 | 야간 모드 | 
 | ![todolist_delete](https://github.com/user-attachments/assets/e6b7b25f-70fd-4b9f-a2b5-f5474d76ea56) | ![todolist_nightmode](https://github.com/user-attachments/assets/dd47e2b1-af7e-485c-86b0-a3a7e7a9845b) | 
-| ### 할일 추가_유효성 검사 | ### 수정 팝업_유효성 검사  |
+| 할일 추가_유효성 검사 | 수정 팝업_유효성 검사  |
 | ![todolist_validation_2](https://github.com/user-attachments/assets/b31ef075-f5d3-46e9-be21-327bd89c29e0) | ![todolist_validation_1](https://github.com/user-attachments/assets/666cccc5-899c-40b2-9398-e7323cad71d4) |
