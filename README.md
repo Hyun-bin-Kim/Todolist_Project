@@ -7,6 +7,16 @@ TODOLIST 할일 목록을 작성하는 사이트입니다.
 기본적인 할 일 관리 기능뿐만 아니라, 카테고리 분류, 검색 등 다양한 기능을 제공하여 사용자가 직관적으로 할 일을 관리할 수 있도록 만들었습니다.
 <br /><br />
 
+## 👨‍👨‍👦‍👦 팀원 소개
+<table>
+<tr>
+    <td align="center"><a href=""><b>강선영</b></a></td>
+    <td align="center"><a href=""><b>김수빈</b></a></td>
+    <td align="center"><a href=""><b>김현빈</b></a></td>
+    <td align="center"><a href=""><b>이의영</b></a></td>
+    <td align="center"><a href=""><b>조성은</b></a></td>
+</tr>
+</table>
 ## 🕰️ 개발 기간
 * 24.08.19 - 24.08.20
 <br /><br />
