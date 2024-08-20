@@ -1,19 +1,25 @@
 # TODOLIST_FRONTEND_PROJECT
 TODOLIST 할일 목록을 작성하는 사이트입니다.
-<br><br>
+<br /><br />
 
 ## 🖥️ 프로젝트 소개
 사용자들이 할 일을 효율적으로 관리할 수 있는 Todo List 웹 애플리케이션입니다.
 기본적인 할 일 관리 기능뿐만 아니라, 카테고리 분류, 검색 등 다양한 기능을 제공하여 사용자가 직관적으로 할 일을 관리할 수 있도록 만들었습니다.
-<br><br>
+<br /><br />
 
 ## 🕰️ 개발 기간
 * 24.08.19 - 24.08.20
-<br><br>
+<br /><br />
 
-## ⚙️ 개발 환경
-- `java version "1.8.0_101"`
-<br><br>
+## ⚙️ 기술 스택
+- **프론트엔드**:
+    - **`HTML`**: 웹 페이지 구조 정의
+    - **`CSS`**: 스타일과 레이아웃 설계
+    - **`JavaScript`**: 동적 기능 구현
+<br /><br />
+# 🎨 디자인 시안
+
+<a href="https://www.figma.com/file/Q81vKDRIoXpMcIZTYHqrQl/%EC%B4%88%EB%A1%9D%EC%A7%91%EC%82%AC-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0%3A1"><img src="https://user-images.githubusercontent.com/79133602/178581705-9e7f8451-41b4-40a1-8f98-e2676faf55a9.png" width="100%"/></a>
 
 ## 📌 주요 기능
 #### 할 일 입력 공간
@@ -42,7 +48,7 @@ TODOLIST 할일 목록을 작성하는 사이트입니다.
 - 검색 필드 (text) 및 검색 버튼
 #### 야간모드
 - 야간 모드 선택 버튼
-<br><br>
+<br /><br />
 
 ## 📺 화면 구성
 
