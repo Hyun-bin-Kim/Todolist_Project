@@ -29,7 +29,7 @@ TODOLIST 할일 목록을 작성하는 사이트입니다.
     - **`CSS`**: 스타일과 레이아웃 설계
     - **`JavaScript`**: 동적 기능 구현
 <br /><br />
-## 🎨 디자인 시안 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기</a>
+## 🎨 디자인 시안 - <a href="https://github.com/Hyun-bin-Kim/Todolist_Project/wiki/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%95%88" >상세보기</a>
 
 <a href="https://www.figma.com/design/TtHLGcqyh7hhYvX6CYyUav/todoList?node-id=0-1&t=Kh5dow6y4nOPtLk3-0">![design](https://github.com/user-attachments/assets/dcf2b6c4-af68-421d-aeb8-09d5cef3cbce)
 </a>
