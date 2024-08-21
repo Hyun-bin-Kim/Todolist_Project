@@ -31,7 +31,7 @@ TODOLIST 할일 목록을 작성하는 사이트입니다.
 <br /><br />
 ## 🎨 디자인 시안
 
-<a href="[project1_4팀_시안디자인.pdf](https://github.com/user-attachments/files/16689500/project1_4._.pdf)">![design](https://github.com/user-attachments/assets/dcf2b6c4-af68-421d-aeb8-09d5cef3cbce)
+<a href="![project1_4팀_시안디자인.pdf](https://github.com/user-attachments/files/16689500/project1_4._.pdf)">![design](https://github.com/user-attachments/assets/dcf2b6c4-af68-421d-aeb8-09d5cef3cbce)
 </a>
 
 ## 📌 주요 기능
